@@ -57,6 +57,7 @@ Due to the Shell Edition moving from an independent repository to a branch of Th
 * **[iTerm2](https://www.iterm2.com)** - Terminal emulator used to test the Shell Edition
 * **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit both versions of The Pony Information Project
 *  **[GitHub Desktop](https://desktop.github.com)** - Though it is possible to push, pull and fetch from Atom, this was the preferred program of choice
+* **[GNU Nano](https://www.nano-editor.org)** - Nano was used to quickly create and edit testing files from the terminal
 
 #### Sources and Acknowledgements
 Any references and honourable mentions can be found [here](https://github.com/harens/ThePonyInformationProject/tree/master#contributors-and-resources)
