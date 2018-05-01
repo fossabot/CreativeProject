@@ -57,11 +57,17 @@ Due to the Shell Edition moving from an independent repository to a branch of Th
 * **[iTerm2](https://www.iterm2.com)** - Terminal emulator used to test the Shell Edition
 * **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit both versions of The Pony Information Project
 *  **[GitHub Desktop](https://desktop.github.com)** - Though it is possible to push, pull and fetch from Atom, this was the preferred program of choice
-* **[GNU Nano](https://www.nano-editor.org)** - Nano was used to quickly create and edit testing files from the terminal
+* **[Vim](https://www.vim.org)** - Vim was used to quickly create and edit testing files from the terminal
+
+#### Operating Systems Tested On
+
+The Pony Information Project Shell Edition was tested on two UNIX-like systems
+
+* **[MacOS Sierra](https://www.apple.com/lae/macos/high-sierra/)**
+* **[Debian 9](https://www.debian.org)** (Stretch)
 
 #### Sources and Acknowledgements
 Any references and honourable mentions can be found [here](https://github.com/harens/ThePonyInformationProject/tree/master#contributors-and-resources)
 
 #### Other
 For more information about this The Pony Information Project, please click [here](https://github.com/harens/ThePonyInformationProject/tree/master#the-pony-information-project-)
-
