@@ -30,7 +30,7 @@ Then, you hit the escape key, press x, and then enter a game.
 
 I then realised that bringing ponies to the terminal is certainly an original idea, and was very well possible within the time range.
 
-There are numerous scripting languages that one can use. The most obvious choice would be [Python](https://www.python.org). However, for me, Python didn't seem creative enough. At the other end of the spectrum, you have less popular languages such as [REXX](http://www.rexxla.org) and [Tcl](https://www.tcl.tk), but they would take too long to learn. That is why I chose [Shell](https://www.shellscript.sh).
+There are numerous scripting languages that one can use. The most obvious choice would be [Python](https://www.python.org). However, for me, Python didn't seem creative enough. At the other end of the spectrum, you have less popular languages such as [REXX](http://www.rexxla.org) and [Tcl](https://www.tcl.tk), but they would take too long to learn. That is why I chose [Shell](https://www.gnu.org/software/bash/), a language I vaguely knew already, and that was only somewhat popular.
 
 Choosing the theme for the scripts was an easy choice, since I had already done a website on ponies.
 
@@ -49,7 +49,7 @@ Due to the Shell Edition moving from an independent repository to a branch of Th
 * **[Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)** - Only used for one 'back-to-top' button. Reason being is that I do not know the language that well.
 
 
-* **[Shell](https://www.shellscript.sh)** - Shell scripts (or more specifically, [bash scripts](https://www.gnu.org/software/bash/)) were used to build the Shell Edition.
+* **[Shell](https://www.gnu.org/software/bash/)** - Shell scripts (or more specifically, [bash scripts](https://www.gnu.org/software/bash/)) were used to build the Shell Edition.
 * **[Git](https://git-scm.com)** - Currently, Git is required to install the program.
 
 
