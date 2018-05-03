@@ -39,37 +39,37 @@ Due to the Shell Edition moving from an independent repository to a branch of Th
 
 * Click [here](https://github.com/harens/PonyInfoGuide-ShellEdition/commits/master) for the first 90 commits of the Shell Edition. This is between the 28th and the 30th of April.
 
-* Click [here](https://github.com/harens/ThePonyInformationProject/commits/master) for the commits of both the Website and the Shell Edition branch
+* Click [here](https://github.com/harens/ThePonyInformationProject/commits/master) for the commits of both the Website and the Shell Edition branch.
 
 #### Languages Utilised
 
-* **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** - HTML is used to provide the foundations of the website
-* **[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)** - Used to present the website
-* **[Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)** - Only used for one 'back-to-top' button. Reason being is that I do not know the language that well
+* **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** - HTML is used to provide the foundations of the website.
+* **[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)** - Used to present the website.
+* **[Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)** - Only used for one 'back-to-top' button. Reason being is that I do not know the language that well.
 
 
-* **[Shell](https://www.shellscript.sh)** - Shell scripts (or more specifically, [bash scripts](https://www.gnu.org/software/bash/)) were used to build the Shell Edition
-* **[Git](https://git-scm.com)** - Currently, Git is required to install the program
+* **[Shell](https://www.shellscript.sh)** - Shell scripts (or more specifically, [bash scripts](https://www.gnu.org/software/bash/)) were used to build the Shell Edition.
+* **[Git](https://git-scm.com)** - Currently, Git is required to install the program.
 
 
 * **[GFM](https://github.github.com/gfm/)** - GitHub-Flavoured Markdown was used for any form of write-up on both editions. One notable example of its use is the making of this website!
 
 #### Programs Used
 
-* **[iTerm2](https://www.iterm2.com)** - Terminal emulator used to test the Shell Edition
-* **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit both versions of The Pony Information Project
-*  **[GitHub Desktop](https://desktop.github.com)** - Though it is possible to push, pull and fetch from Atom, this was the preferred program of choice
-* **[Vim](https://www.vim.org)** - Vim was used to quickly create and edit testing files from the terminal
+* **[iTerm2](https://www.iterm2.com)** - Terminal emulator used to test the Shell Edition.
+* **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit both versions of The Pony Information Project.
+*  **[GitHub Desktop](https://desktop.github.com)** - Though it is possible to pull, push and fetch from Atom, this was the preferred program of choice.
+* **[Vim](https://www.vim.org)** - Vim was used to quickly create and edit testing files from the terminal.
 
 #### Operating Systems Tested On
 
-The Pony Information Project Shell Edition was tested on two UNIX-like systems
+The Pony Information Project Shell Edition was tested on two UNIX-like systems:
 
 * **[MacOS Sierra](https://www.apple.com/lae/macos/high-sierra/)**
 * **[Debian 9](https://www.debian.org)** (Stretch)
 
 #### Sources and Acknowledgements
-Any references and honourable mentions can be found [here](https://github.com/harens/ThePonyInformationProject/tree/master#contributors-and-resources)
+Any references and honourable mentions can be found [here](https://github.com/harens/ThePonyInformationProject/tree/master#contributors-and-resources).
 
 #### Other
-For more information about this The Pony Information Project, please click [here](https://github.com/harens/ThePonyInformationProject/tree/master#the-pony-information-project-)
+For more information about this The Pony Information Project, please click [here](https://github.com/harens/ThePonyInformationProject/tree/master#the-pony-information-project-).
