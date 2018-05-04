@@ -36,11 +36,12 @@ Choosing the theme for the scripts was a simple choice since I had already done 
 
 #### Timeline
 
-Due to the Shell Edition moving from an independent repository to a branch of The Pony Information Project, there are two different links for commits.
+Due to the Shell Edition moving from an independent repository to a branch of The Pony Information Project, there are two different links for this edition's commits.
 
 * Click [here](https://github.com/harens/PonyInfoGuide-ShellEdition/commits/master) for the first 90 commits of the Shell Edition. I updated this repo between the 28th and the 30th of April.
+* Click [here](https://github.com/harens/ThePonyInformationProject/commits/Shell-Edition) for the commits of the Shell Edition branch
 
-* Click [here](https://github.com/harens/ThePonyInformationProject/commits/master) for the commits of both the Website and the Shell Edition branch.
+* Click [here](https://github.com/harens/ThePonyInformationProject/commits/master) for the commits of the website.
 
 #### Languages Utilised
 
@@ -57,7 +58,7 @@ Due to the Shell Edition moving from an independent repository to a branch of Th
 
 #### Programs Used
 
-* **[iTerm2](https://www.iterm2.com)** - Terminal emulator used to test the Shell Edition.
+* **[iTerm2](https://www.iterm2.com)** - MacOS terminal emulator used to test the Shell Edition.
 * **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit both versions of The Pony Information Project.
 *  **[GitHub Desktop](https://desktop.github.com)** - Though it is possible to pull, push and fetch from Atom, this was the preferred program of choice.
 * **[Vim](https://www.vim.org)** - Vim was used to create and edit testing files quickly from the terminal.
