@@ -62,6 +62,7 @@ Due to the Shell Edition moving from an independent repository to a branch of Th
 * **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit both versions of The Pony Information Project.
 *  **[GitHub Desktop](https://desktop.github.com)** - Though it is possible to pull, push and fetch from Atom, this was the preferred program of choice.
 * **[Vim](https://www.vim.org)** - Vim was used to create and edit testing files quickly from the terminal.
+* **[Travis CI](https://travis-ci.org)** - Travis CI was used to test and deploy builds.
 
 #### Operating Systems Tested On
 
@@ -69,6 +70,7 @@ The Pony Information Project Shell Edition was tested on two UNIX-like systems:
 
 * **[MacOS Sierra](https://www.apple.com/lae/macos/high-sierra/)**
 * **[Debian 9](https://www.debian.org)** (Stretch)
+* **[Ubuntu 14.04](https://www.ubuntu.com)** (Trusty) - Tested from Travis CI using the Trusty Build Environment
 
 #### Sources and Acknowledgements
 Any references and honourable mentions are found [here](https://github.com/harens/ThePonyInformationProject/tree/master#contributors-and-resources).
