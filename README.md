@@ -116,6 +116,7 @@ The Pony Information Project was tested on three UNIX-like Systems:
 2. The lessons from [W3Schools](https://www.w3schools.com), as well as the developer tools from [Facebook](https://developers.facebook.com), [Twitter](https://developer.twitter.com) and especially [Google](https://developers.google.com), have also been very useful.
 3. Menubar was based off [Simple, CSS only, responsive menu](https://codepen.io/jurbank/pen/veGnb) by [John Urbank](https://codepen.io/jurbank/).
 4. [Nibbler](http://nibbler.silktide.com) and [GTmetrix](https://gtmetrix.com/) were both very useful for determining what to improve on.
+
 #### PonySh and PyPony
 1. ASCII art was used from [Asciiworld](http://www.asciiworld.com/-Horses-.html) and [Patorjk](http://patorjk.com/software/taag/).
 2. Sources for the information used can be found in the scripts.
