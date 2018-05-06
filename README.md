@@ -1,7 +1,11 @@
 <!--Markdown Image Format could not be used, for image would not display on website-->
-<a href="https://github.com/harens/PonySh"><img src="PonyShLogo.png" alt="PonySh Logo"></a>
+<a href="https://github.com/harens/PonySh">
+<img src="PonyShLogo.png" alt="PonySh Logo">
+</a>
 
-<a href="https://github.com/harens/PyPony"><img src="PyPonyLogo.png" alt="PyPony Logo"></a>
+<a href="https://github.com/harens/PyPony">
+<img src="PyPonyLogo.png" alt="PyPony Logo">
+</a>
 
 ## ThePonyInformationProject [![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/)
 
