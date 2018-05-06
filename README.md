@@ -7,7 +7,8 @@
 <img src="PyPonyLogo.png" alt="PyPony Logo">
 </a>
 
-## ThePonyInformationProject [![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://github.com/harens/CreativeProject)
+## ThePonyInformationProject
+[![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://github.com/harens/CreativeProject)
 
 The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/PonySh), and [PyPony](https://github.com/harens/PyPony). PonySh and PyPony were custom-made for the Creative Project.
 
