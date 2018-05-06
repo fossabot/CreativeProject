@@ -4,7 +4,7 @@
 
 ### The Pony Information Project
 
-The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/ThePonyInformationProject/tree/Shell-Edition), and [PyPony](https://github.com/harens/PyPony). The PonySh and PyPony were custom-made for the Creative Project.
+The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/ThePonyInformationProject/tree/Shell-Edition), and [PyPony](https://github.com/harens/PyPony). PonySh and PyPony were custom-made for the Creative Project.
 
 <!--Markdown Image Format could not be used, for image would not display on website-->
 <img src="PonyTerminal.png" alt="The Pony Information Project Shell Edition">
