@@ -9,20 +9,18 @@
 
 ## ThePonyInformationProject [![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://github.com/harens/CreativeProject)
 
-### By Haren S
-
 The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/PonySh), and [PyPony](https://github.com/harens/PyPony). PonySh and PyPony were custom-made for the Creative Project.
 
 <!--Markdown Image Format could not be used, for image would not display on website-->
 <img src="PonyTerminal.png" alt="The Pony Information Project Shell Edition">
 
-#### Inspiration
+### Inspiration
 
-##### Website
+#### Website
 
 I decided to build The Pony Information Project (then known under a different name) since we were learning about HTML and CSS in class. The idea of writing about ponies may seem entirely random, but even though I've never ridden a horse/pony before, I have always found them quite exciting animals.
 
-##### PonySh
+#### PonySh
 
 For the Creative Project, I was at first unsure of what to do. I considered writing an application in [Swift](https://swift.org), but this would take too long. I thought about building another website, but I already had a lot of experience with this and wanted to try something different.
 
@@ -41,7 +39,7 @@ There are numerous scripting languages that one can use. The most obvious choice
 
 Choosing the theme for the scripts was a simple choice since I had already done a website on ponies.
 
-##### PyPony
+#### PyPony
 
 I finished PonySh much, much earlier than expected. I was thinking about integrating it with [MakeFile](https://www.gnu.org/software/make/manual/make.html), but I realised that it would be much more beneficial to do Python. Though I felt that it would not be a very creative choice for this Creative Project, there were three main reasons why I chose to do this:
 
@@ -49,15 +47,15 @@ I finished PonySh much, much earlier than expected. I was thinking about integra
 2. My partner does not know Shell, HTML or CSS. However, he can code a bit of Python.
 3. In the long run, Python is an arguably more valuable language than Shell (unless you use UNIX-like systems a lot). Therefore, this project would be good practice.
 
-#### Timeline
+### Timeline
 
 Due to practicality reasons, all three versions moved about a lot. For this reason **I apologise sincerely**. I've tried my best to link together all the commits, but it is not perfect.
 
-##### Website
+#### Website
 
 Unfortunately, the commits have been corrupted by my poor decision to merge all the files _from all versions_ in the master branch (the original home of the website). Again, I apologise for this. For the gh-pages branch, where it got moved to, please click [here](https://github.com/harens/ThePonyInformationProject/commits/gh-pages).
 
-##### PonySh
+#### PonySh
 
 PonySh got moved three times in total, as well as having a name change along the way.
 
@@ -65,36 +63,36 @@ PonySh got moved three times in total, as well as having a name change along the
 * Click [here](https://github.com/harens/ThePonyInformationProject/commits/Shell-Edition) for the commits of the Shell Edition branch.
 * Click [here](https://github.com/harens/PonySh/commits/master) for the PonySh repository.
 
-##### PyPony
+#### PyPony
 
 Due to this version being the newest of the three, it only got moved twice. Somehow or another, its name also got changed though.
 
 * For the Python Edition branch, click [here](https://github.com/harens/ThePonyInformationProject/commits/Python-Edition).
 * For the PyPony repository, click [here](https://github.com/harens/PyPony/commits/master).
 
-##### Blog
+#### Blog
 
 Unfortunately, the only part of The Pony Information Project that has a clear set of commits is the blog. Click [here](https://github.com/harens/CreativeProject/commits/master).
 
-#### Languages Utilised
+### Languages Utilised
 
-##### Website
+#### Website
 * **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** - HTML is used to provide the foundations of the website.
 * **[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)** - Used to present the website.
 * **[Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)** - Only used for one 'back-to-top' button. Reason being is that I do not know the language that well.
 
-##### PonySh
+#### PonySh
 * **[Shell](https://www.gnu.org/software/bash/)** - Shell scripts (or more specifically, [bash scripts](https://www.gnu.org/software/bash/)) were used to build PonySh.
 
-##### PyPony
+#### PyPony
 * **[Python](https://www.python.org)** - The only language used in PyPony.
 
-#### General
+### General
 
 * **[Git](https://git-scm.com)** - Git was used to push, pull and fetch from [GitHub](https://www.github.com).
 * **[GFM](https://github.github.com/gfm/)** - I used Github-Flavoured Markdown for any form of write-up. One notable example of its use is in the making of this very website!
 
-#### Programs Used
+### Programs Used
 
 * **[iTerm2](https://www.iterm2.com)** - MacOS terminal emulator used to test PonySh.
 * **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit all versions of The Pony Information Project.
@@ -103,7 +101,7 @@ Unfortunately, the only part of The Pony Information Project that has a clear se
 * **[Travis CI](https://travis-ci.org)** - Travis CI was used to test and deploy builds.
 * **[GitHub](https://github.com)** - GitHub was used to host all three versions.
 
-#### Operating Systems Tested On
+### Operating Systems Tested On
 
 The Pony Information Project was tested on three UNIX-like Systems:
 
@@ -111,8 +109,8 @@ The Pony Information Project was tested on three UNIX-like Systems:
 * **[Debian 9](https://www.debian.org)** (Stretch)
 * **[Ubuntu 14.04.05 LTS](https://www.ubuntu.com)** (Trusty) - Tested from Travis CI using the Trusty Build Environment
 
-#### Sources and Acknowledgements
+### Sources and Acknowledgements
 Any references and honourable mentions are found [here](https://github.com/harens/ThePonyInformationProject/tree/master#contributors-and-resources).
 
-#### Other
+### Other
 For more information about this The Pony Information Project, please click [here](https://github.com/harens/ThePonyInformationProject/tree/master#the-pony-information-project-).
