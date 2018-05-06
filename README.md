@@ -1,9 +1,9 @@
-## ThePonyInformationProject
-
 <!--Markdown Image Format could not be used, for image would not display on website-->
 <img src="PonyShLogo.png" alt="PonySh Logo">
 
 <img src="PyPonyLogo.png" alt="PyPony Logo">
+
+## ThePonyInformationProject
 
 ### By Haren S
 
