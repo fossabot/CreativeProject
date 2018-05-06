@@ -65,6 +65,10 @@ Due to this version being the newest of the three, it only got moved twice. Some
 * For the Python Edition branch, click [here](https://github.com/harens/ThePonyInformationProject/commits/Python-Edition).
 * For the PyPony repository, click [here](https://github.com/harens/PyPony/commits/master).
 
+##### Blog
+
+Unfortunately, the only part of The Pony Information Project that has a clear set of commits is the blog. Click [here](https://github.com/harens/CreativeProject/commits/master).
+
 #### Languages Utilised
 
 ##### Website
