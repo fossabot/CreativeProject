@@ -1,8 +1,8 @@
-## Creative Project Blog
+## ThePonyInformationProject Blog
 
 
 
-### By Haren
+### By Haren S
 
 The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/PonySh), and [PyPony](https://github.com/harens/PyPony). PonySh and PyPony were custom-made for the Creative Project.
 
