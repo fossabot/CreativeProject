@@ -2,9 +2,9 @@
 
 
 
-### The Pony Information Project
+### By Haren
 
-The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/ThePonyInformationProject/tree/Shell-Edition), and [PyPony](https://github.com/harens/PyPony). PonySh and PyPony were custom-made for the Creative Project.
+The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/PonySh), and [PyPony](https://github.com/harens/PyPony). PonySh and PyPony were custom-made for the Creative Project.
 
 <!--Markdown Image Format could not be used, for image would not display on website-->
 <img src="PonyTerminal.png" alt="The Pony Information Project Shell Edition">
@@ -34,7 +34,7 @@ There are numerous scripting languages that one can use. The most obvious choice
 
 Choosing the theme for the scripts was a simple choice since I had already done a website on ponies.
 
-#### PyPony
+##### PyPony
 
 I finished PonySh much, much earlier than expected. I was thinking about integrating it with [MakeFile](https://www.gnu.org/software/make/manual/make.html), but I realised that it would be much more beneficial to do Python. Though I felt that it would not be a very creative choice for this Creative Project, there were three main reasons why I chose to do this:
 
