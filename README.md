@@ -1,6 +1,8 @@
 ## ThePonyInformationProject
 
+![PonySh Logo](https://github.com/harens/CreativeProject/blob/master/PonyShLogo)
 
+![PyPony Logo](https://github.com/harens/CreativeProject/blob/master/PyPonyLogo)
 
 ### By Haren S
 
