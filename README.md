@@ -122,7 +122,7 @@ The Pony Information Project was tested on three UNIX-like Systems:
 3. The font used for the two logos was [Lato](https://fonts.google.com/specimen/Lato). Its license can be found [here](https://github.com/harens/CreativeProject/blob/master/License%20for%20'Lato').
 
 ### Archive
-All previous versions are hosted on [CodePen](https://codepen.io)
+All previous versions of the website are hosted on [CodePen](https://codepen.io)
 * [V 0.1](https://codepen.io/SamuraiSinger/full/KXGLVr/)
 * [V 0.2](https://codepen.io/SamuraiSinger/full/pWBNqp)
 * [V 0.2.1](https://codepen.io/SamuraiSinger/full/rGqXjr/)
