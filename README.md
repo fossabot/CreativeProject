@@ -1,8 +1,9 @@
 ## ThePonyInformationProject
 
-![PonySh Logo](https://github.com/harens/CreativeProject/blob/master/PonyShLogo.png)
+<!--Markdown Image Format could not be used, for image would not display on website-->
+<img src="PonyShLogo.png" alt="PonySh Logo">
 
-![PyPony Logo](https://github.com/harens/CreativeProject/blob/master/PyPonyLogo.png)
+<img src="PyPonyLogo.png" alt="PyPony Logo">
 
 ### By Haren S
 
