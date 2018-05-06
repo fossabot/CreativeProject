@@ -111,7 +111,27 @@ The Pony Information Project was tested on three UNIX-like Systems:
 * **[Ubuntu 14.04.05 LTS](https://www.ubuntu.com)** (Trusty) - Tested from Travis CI using the Trusty Build Environment
 
 ### Sources and Acknowledgements
-Any references and honourable mentions are found [here](https://github.com/harens/ThePonyInformationProject/tree/master#contributors-and-resources).
+#### Website
+1. Many thanks to [ZeevoX](https://github.com/ZeevoX) and Mr Green, who have both helped greatly behind the scenes.
+2. The lessons from [W3Schools](https://www.w3schools.com), as well as the developer tools from [Facebook](https://developers.facebook.com), [Twitter](https://developer.twitter.com) and especially [Google](https://developers.google.com), have also been very useful.
+3. Menubar was based off [Simple, CSS only, responsive menu](https://codepen.io/jurbank/pen/veGnb) by [John Urbank](https://codepen.io/jurbank/).
+4. [Nibbler](http://nibbler.silktide.com) and [GTmetrix](https://gtmetrix.com/) were both very useful for determining what to improve on.
+#### PonySh and PyPony
+1. ASCII art was used from [Asciiworld](http://www.asciiworld.com/-Horses-.html) and [Patorjk](http://patorjk.com/software/taag/).
+2. Sources for the information used can be found in the scripts.
+3. The font used for the two logos was [Lato](https://fonts.google.com/specimen/Lato). Its license can be found [here](https://github.com/harens/CreativeProject/blob/master/License%20for%20'Lato').
 
-### Other
-For more information about this The Pony Information Project, please click [here](https://github.com/harens/ThePonyInformationProject/tree/master#the-pony-information-project-).
+### Archive
+All previous versions are hosted on [CodePen](https://codepen.io)
+* [V 0.1](https://codepen.io/SamuraiSinger/full/KXGLVr/)
+* [V 0.2](https://codepen.io/SamuraiSinger/full/pWBNqp)
+* [V 0.2.1](https://codepen.io/SamuraiSinger/full/rGqXjr/)
+* [V 0.3](https://codepen.io/SamuraiSinger/full/wrZYBw)
+  * Ponies
+    * [Shetland](https://codepen.io/SamuraiSinger/full/XeQyqL)
+    * [Highland](https://codepen.io/SamuraiSinger/full/xXeQvZ/)
+    * [Dartmoor](https://codepen.io/SamuraiSinger/full/zEQOVJ/)
+    * [Connemara](https://codepen.io/SamuraiSinger/full/EwzxWJ/)
+  * [General Facts](https://codepen.io/SamuraiSinger/full/jGoOxK/)
+  * [Online Popularity](https://codepen.io/SamuraiSinger/full/jGoOxK/)
+  * [About](https://codepen.io/SamuraiSinger/full/xPxXbK)
