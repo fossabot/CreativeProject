@@ -7,7 +7,7 @@
 <img src="PyPonyLogo.png" alt="PyPony Logo">
 </a>
 
-## ThePonyInformationProject [![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/)
+## ThePonyInformationProject [![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://github.com/harens/CreativeProject)
 
 ### By Haren S
 
