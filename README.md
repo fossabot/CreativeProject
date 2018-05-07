@@ -32,9 +32,9 @@ emacs
 ```
 _Note: To anyone who's interested, GNU Emacs is a very interesting text editor. You can find out more [here](https://www.gnu.org/software/emacs/)_
 
-Then, you hit the escape key, press x, and then enter a game.
+Then, you hit the escape key, press x, and type in the game you want.
 
-I then realised that bringing ponies to the terminal is undoubtedly an original idea, and was very well possible within the time range.
+I realised that bringing ponies to the terminal is undoubtedly an original idea, and was very well possible within the time range.
 
 There are numerous scripting languages that one can use. The most obvious choice would be [Python](https://www.python.org). However, for me, Python didn't seem creative enough. At the other end of the spectrum, you have less popular choices such as [REXX](http://www.rexxla.org) and [Tcl](https://www.tcl.tk), but they would take too long to learn. That is why I chose [Shell](https://www.gnu.org/software/bash/), a language I knew already, and that was only somewhat popular.
 
@@ -50,7 +50,7 @@ I finished PonySh much, much earlier than expected. I was thinking about integra
 
 ### Timeline
 
-Due to practicality reasons, all three versions moved about a lot. For this reason **I apologise sincerely**. I've tried my best to link together all the commits, but it is not perfect.
+Due to practicality reasons, all three versions moved about a lot. For this reason **I sincerely apologise**. I've tried my best to link together all the commits, but it is not perfect.
 
 #### Website
 
@@ -66,7 +66,7 @@ PonySh got moved three times in total, as well as having a name change along the
 
 #### PyPony
 
-Due to this version being the newest of the three, it only got moved twice. Somehow or another, its name also got changed though.
+Due to this version being the newest of the three, it only got moved twice. Somehow or another, its name also got changed.
 
 * For the Python Edition branch, click [here](https://github.com/harens/ThePonyInformationProject/commits/Python-Edition).
 * For the PyPony repository, click [here](https://github.com/harens/PyPony/commits/master).
@@ -78,15 +78,15 @@ Unfortunately, the only part of The Pony Information Project that has a clear se
 ### Languages Utilised
 
 #### Website
-* **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** - HTML is used to provide the foundations of the website.
-* **[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)** - Used to present the website.
+* **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** - HTML is used to provide the foundations.
+* **[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)** - Used to present and customise the website.
 * **[Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)** - Only used for one 'back-to-top' button. Reason being is that I do not know the language that well.
 
 #### PonySh
-* **[Shell](https://www.gnu.org/software/bash/)** - Shell scripts (or more specifically, [bash scripts](https://www.gnu.org/software/bash/)) were used to build PonySh.
+* **[Shell](https://www.gnu.org/software/bash/)** - Shell scripts (or more specifically, [bash scripts](https://www.gnu.org/software/bash/)) was the only language used.
 
 #### PyPony
-* **[Python](https://www.python.org)** - The only language used in PyPony.
+* **[Python](https://www.python.org)** - The language used in PyPony.
 
 ### General
 
@@ -95,10 +95,11 @@ Unfortunately, the only part of The Pony Information Project that has a clear se
 
 ### Programs Used
 
-* **[iTerm2](https://www.iterm2.com)** - MacOS terminal emulator used to test PonySh.
+* **[iTerm2](https://www.iterm2.com)** - MacOS terminal emulator used to run PonySh.
 * **[Atom](https://atom.io)** - The main text editor that was used. It was utilised to edit all versions of The Pony Information Project.
-*  **[GitKraken](https://www.gitkraken.com)** - Though it is possible to pull, push and fetch from Atom, this was the preferred program of choice. Originally, [GitHub Desktop](https://desktop.github.com) was used, though this was before I got the [Student Developer Pack](https://education.github.com/pack), which included a pro GitKraken account.
+*  **[GitKraken](https://www.gitkraken.com)** - Though it is possible to pull, push and fetch from Atom, this was the preferred program of choice. Originally, [GitHub Desktop](https://desktop.github.com) was used, though this was before I was fortunate enough to receive the [Student Developer Pack](https://education.github.com/pack), which included a pro GitKraken account.
 * **[Vim](https://www.vim.org)** - Vim was used to create and edit small testing files quickly from the terminal, without having to launch Atom.
+* **[IDLE](https://docs.python.org/3/library/idle.html)** - IDLE was the main program used to assess PyPony
 * **[Travis CI](https://travis-ci.org)** - Travis CI was used to test and deploy builds.
 * **[GitHub](https://github.com)** - GitHub was used to host all three versions.
 
