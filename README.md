@@ -92,6 +92,7 @@ Unfortunately, the only part of The Pony Information Project that has a clear se
 
 * **[Git](https://git-scm.com)** - Git was used to push, pull and fetch from [GitHub](https://www.github.com).
 * **[GFM](https://github.github.com/gfm/)** - I used Github-Flavoured Markdown for any form of write-up. One notable example of its use is in the making of this very website!
+* **[YAML](http://yaml.org)** - YAML was used to set the testing requirements for Travis CI
 
 ### Programs Used
 
@@ -100,7 +101,7 @@ Unfortunately, the only part of The Pony Information Project that has a clear se
 *  **[GitKraken](https://www.gitkraken.com)** - Though it is possible to pull, push and fetch from Atom, this was the preferred program of choice. Originally, [GitHub Desktop](https://desktop.github.com) was used, though this was before I was fortunate enough to receive the [Student Developer Pack](https://education.github.com/pack), which included a pro GitKraken account.
 * **[Vim](https://www.vim.org)** - Vim was used to create and edit small testing files quickly from the terminal, without having to launch Atom.
 * **[IDLE](https://docs.python.org/3/library/idle.html)** - IDLE was the main program used to assess PyPony
-* **[Travis CI](https://travis-ci.org)** - Travis CI was used to test and deploy builds.
+* **[Travis CI](https://travis-ci.org)** - Travis CI was used to test builds.
 * **[GitHub](https://github.com)** - GitHub was used to host all three versions.
 
 ### Operating Systems Tested On
