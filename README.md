@@ -123,6 +123,7 @@ The Pony Information Project was tested on three UNIX-like Systems:
 1. ASCII art was used from [Asciiworld](http://www.asciiworld.com/-Horses-.html) and [Patorjk](http://patorjk.com/software/taag/).
 2. Sources for the information used can be found in the scripts.
 3. The font used for the two logos was [Lato](https://fonts.google.com/specimen/Lato). Its license can be found [here](https://github.com/harens/CreativeProject/blob/master/License%20for%20'Lato').
+4. The PyPony [.travis.yml](https://github.com/harens/PyPony/blob/master/.travis.yml) is based on the one found at [Flask](https://github.com/pallets/flask/blob/master/.travis.yml)
 
 ### Archive
 All previous versions of the website are hosted on [CodePen](https://codepen.io)
