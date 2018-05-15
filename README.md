@@ -92,7 +92,7 @@ Unfortunately, the only part of The Pony Information Project that has a clear se
 
 * **[Git](https://git-scm.com)** - Git was used to push, pull and fetch from [GitHub](https://www.github.com).
 * **[GFM](https://github.github.com/gfm/)** - I used Github-Flavoured Markdown for any form of write-up. One notable example of its use is in the making of this very website!
-* **[YAML](http://yaml.org)** - YAML was used to set the testing requirements for Travis CI
+* **[YAML](http://yaml.org)** - YAML was used to set the testing requirements for Travis CI, as well as for configuring GitHub Pages
 
 ### Programs Used
 
