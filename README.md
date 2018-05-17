@@ -9,6 +9,7 @@
 
 ## ThePonyInformationProject
 [![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://github.com/harens/CreativeProject)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FCreativeProject.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FCreativeProject?ref=badge_shield)
 
 The Pony Information Project aims to educate all about ponies. It now comes in three different forms, the [Website](https://harens.github.io/ThePonyInformationProject/), [PonySh](https://github.com/harens/PonySh), and [PyPony](https://github.com/harens/PyPony). PonySh and PyPony were custom-made for the Creative Project.
 
@@ -139,3 +140,7 @@ All previous versions of the website are hosted on [CodePen](https://codepen.io)
   * [General Facts](https://codepen.io/SamuraiSinger/full/jGoOxK/)
   * [Online Popularity](https://codepen.io/SamuraiSinger/full/jGoOxK/)
   * [About](https://codepen.io/SamuraiSinger/full/xPxXbK)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FCreativeProject.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FCreativeProject?ref=badge_large)
